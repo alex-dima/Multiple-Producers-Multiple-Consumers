@@ -1,0 +1,1 @@
+A personal implementation of the well known ”Multiple Producers Multiple Consumers” problem.

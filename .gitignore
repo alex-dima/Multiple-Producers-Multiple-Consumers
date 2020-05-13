@@ -1,0 +1,5 @@
+.vscode
+pylintrc
+tema/__pycache__/
+tema/Tema1_ASC.zip
+tema/README.md
